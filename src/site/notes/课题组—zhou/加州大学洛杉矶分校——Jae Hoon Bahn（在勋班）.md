@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/课题组—zhou/加州大学洛杉矶分校——Jae Hoon Bahn（在勋班）/"}
+{"dg-publish":true,"permalink":"/课题组—zhou/加州大学洛杉矶分校——Jae Hoon Bahn（在勋班）/","dgPassFrontmatter":true}
 ---
 
 ![](/img/user/未分类/attachments/Pasted image 20240822224709.png)
