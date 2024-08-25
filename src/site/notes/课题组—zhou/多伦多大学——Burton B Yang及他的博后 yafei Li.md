@@ -8,6 +8,7 @@
 
 [设计和使用反向剪接连接探针在细胞系中下拉环状 RNA 结合蛋白](https://www.sciencedirect.com/science/article/pii/S2666166722005822)
 
-![](/img/user/未分类/attachments/Pasted image 20240825210001.png)
+![](/img/user/课题组—zhou/attachments/Pasted image 20240825210001.png)
 
 [实验室所在学校官网]([杨伯顿 |检验医学和病理生物学 (utoronto.ca)](https://lmp.utoronto.ca/faculty/burton-yang))
+

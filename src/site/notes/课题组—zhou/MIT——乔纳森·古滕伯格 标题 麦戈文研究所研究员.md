@@ -3,4 +3,4 @@
 ---
 
 [课题组，学校个人profile](https://molbio.princeton.edu/speakers/jonathan-gootenberg)
-![](/img/user/未分类/attachments/Pasted image 20240822223915.png)
+![](/img/user/课题组—zhou/attachments/Pasted image 20240822223915.png)
